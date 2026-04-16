@@ -35,6 +35,14 @@
 !/enclosure/
 !/cyd_800k.dsk
 
+# Nix flake
+!/flake.nix
+!/flake.lock
+!/scripts/
+
+# GitHub
+!/.github/
+
 ## Denylist
 # Build artifacts
 .pio/
